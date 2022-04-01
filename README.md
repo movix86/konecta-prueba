@@ -1,5 +1,6 @@
 <h3>TODO EL CODIGO ES DE MI AUTORIA. TIENEN TOTAL LIBERTAD PARA MIRAR MI REPOSITORIO:https://github.com/movix86/</h3>
 La prueba se realizo conforme al requerimiento de la prueba. <br>
+-Aqui hay otra rama de este proyecto. Pero preferi enviarles la actual. https://github.com/movix86/konecta
 Por favor Antes de comenzar debe verificar si tiene instalado Composer! <br>
 Importante tener Xampp o Wamp y crear una base de datos llamada: laravel y ejecutar las migraciones de laravel <br>
 Debe seguir las siguientes instrucciones:
