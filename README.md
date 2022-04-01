@@ -3,7 +3,7 @@
 La prueba se realizo conforme al requerimiento de la prueba.
 </p>
 <p>
--Aqui hay otra rama de este proyecto. Pero preferi enviarles la actual. https://github.com/movix86/konecta
+-(NO RECOMENDADA SOLO LA ENVIO COMO PRUEBA)Rama antigua:https://github.com/movix86/konecta.
 </p>
 <p>
 Por favor Antes de comenzar debe verificar si tiene instalado Composer! <br>
