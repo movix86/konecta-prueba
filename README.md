@@ -5,7 +5,6 @@ La prueba se realizo conforme al requerimiento de la prueba. <br>
 Por favor Antes de comenzar debe verificar si tiene instalado Composer! <br>
 Importante tener Xampp o Wamp y crear una base de datos llamada: laravel y ejecutar las migraciones de laravel <br>
 Debe seguir las siguientes instrucciones:
-<br>
 - Abrir powershell o Gitbash.
 - Clonar el repositorio con: git clone git@github.com:movix86/konecta-prueba.git store
 - Ubicarse sobre el proyecto clonado con los comandos en consola; cd store
