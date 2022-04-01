@@ -2,10 +2,14 @@
 La prueba se realizo conforme al requerimiento de la prueba. <br>
 -Aqui hay otra rama de este proyecto. Pero preferi enviarles la actual. https://github.com/movix86/konecta
 <br>
+<p>
 Por favor Antes de comenzar debe verificar si tiene instalado Composer! <br>
 Importante tener Xampp o Wamp y crear una base de datos llamada: laravel y ejecutar las migraciones de laravel <br>
 Debe seguir las siguientes instrucciones:
+</p>
+<p>
 - Abrir powershell o Gitbash.
+</p>    
 - Clonar el repositorio con: git clone git@github.com:movix86/konecta-prueba.git store
 - Ubicarse sobre el proyecto clonado con los comandos en consola; cd store
 - Luego installar composer: composer install
