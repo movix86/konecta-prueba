@@ -76,6 +76,7 @@
                             </div>
                             <div class="col-md-8">
                                 <select id="categoria" name="categoria" class="form-control">
+                                <option value="" selected>Seleccione</option>
                                 @if(isset($data))
                                     @foreach ($data as $atributo)
                                         <option value="{{$atributo->id}}">{{$atributo->nombre}}</option>

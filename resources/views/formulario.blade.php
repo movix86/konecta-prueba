@@ -89,6 +89,7 @@
                     </div>
                     <div class="col-md-8">
                         <select id="categoria" name="categoria" class="form-control">
+                        <option value="" selected>Seleccione</option>
                             @foreach ($data['category'] as $atributo)
                                 <option value="{{$atributo->id}}" {{ isset($data) && $data['estate']==1 && $data['info']->category_id==$atributo->id ? 'selected' : '' }}>{{$atributo->nombre}}</option>
                             @endforeach
